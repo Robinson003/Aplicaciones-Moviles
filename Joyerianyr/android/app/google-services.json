@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "90253014715",
+    "project_id": "aplicaciones-moviles-par-70aa6",
+    "storage_bucket": "aplicaciones-moviles-par-70aa6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90253014715:android:a4447428f70e45c6839b9e",
+        "android_client_info": {
+          "package_name": "com.example.miprimerflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD3wuMcQBM0vYAT04x2V1ERGNv4kmYeJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
